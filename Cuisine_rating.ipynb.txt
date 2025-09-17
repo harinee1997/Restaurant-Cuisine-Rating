@@ -23,7 +23,8 @@
           "height": 114
         },
         "id": "q-nt8H31GVTG",
-        "outputId": "d8446a7f-064b-4590-aa76-7d891e1ad60b"
+        "outputId": "d8446a7f-064b-4590-aa76-7d891e1ad60b",
+        "collapsed": true
       },
       "outputs": [
         {
